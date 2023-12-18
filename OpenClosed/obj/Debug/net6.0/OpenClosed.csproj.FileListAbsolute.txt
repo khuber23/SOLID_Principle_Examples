@@ -1,0 +1,12 @@
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\bin\Debug\net6.0\OpenClosed.deps.json
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\bin\Debug\net6.0\OpenClosed.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\bin\Debug\net6.0\OpenClosed.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\obj\Debug\net6.0\OpenClosed.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\obj\Debug\net6.0\OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfoInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\obj\Debug\net6.0\OpenClosed.AssemblyInfo.cs
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\obj\Debug\net6.0\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\obj\Debug\net6.0\OpenClosed.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\obj\Debug\net6.0\refint\OpenClosed.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\obj\Debug\net6.0\OpenClosed.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\OpenClosed\obj\Debug\net6.0\ref\OpenClosed.dll

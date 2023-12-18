@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rQGoqnUvJ8EkVT85SpBTYj01rqoPFEDCMW7WE7lWq8eUH7BiH0Qn70jliMOoZzWhlLiFeBkF9FZ+oDxgE90gIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\180011854\\OneDrive - Northcentral Technical College\\Courses\\Object-Oriented Design\\A Class\\7.1 SOLID Huber\\LiskovSubstitution\\LiskovSubstitution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\180011854\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\180011854\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

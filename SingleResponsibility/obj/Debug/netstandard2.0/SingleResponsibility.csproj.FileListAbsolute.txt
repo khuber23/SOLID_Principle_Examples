@@ -1,0 +1,28 @@
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\SingleResponsibility\bin\Debug\netstandard2.0\SingleResponsibility.deps.json
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\SingleResponsibility\bin\Debug\netstandard2.0\SingleResponsibility.dll
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\SingleResponsibility\bin\Debug\netstandard2.0\SingleResponsibility.pdb
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.AssemblyInfo.cs
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.dll
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.pdb
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.csprojAssemblyReference.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\SingleResponsibility\bin\Debug\netstandard2.0\SingleResponsibility.deps.json
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\SingleResponsibility\bin\Debug\netstandard2.0\SingleResponsibility.dll
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\SingleResponsibility\bin\Debug\netstandard2.0\SingleResponsibility.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.AssemblyInfo.cs
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.dll
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.csprojAssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\SingleResponsibility\bin\Debug\netstandard2.0\SingleResponsibility.deps.json
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\SingleResponsibility\bin\Debug\netstandard2.0\SingleResponsibility.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\SingleResponsibility\bin\Debug\netstandard2.0\SingleResponsibility.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.AssemblyInfo.cs
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\SingleResponsibility\obj\Debug\netstandard2.0\SingleResponsibility.pdb

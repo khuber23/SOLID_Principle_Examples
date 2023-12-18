@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SOLIDPrinciples/1.0.0": {
+        "dependencies": {
+          "DependencyInversion": "1.0.0",
+          "InterfaceSegregation": "1.0.0",
+          "LiskovSubstitution": "1.0.0",
+          "OpenClosed": "1.0.0",
+          "SingleResponsibility": "1.0.0"
+        },
+        "runtime": {
+          "SOLIDPrinciples.dll": {}
+        }
+      },
+      "DependencyInversion/1.0.0": {
+        "runtime": {
+          "DependencyInversion.dll": {}
+        }
+      },
+      "InterfaceSegregation/1.0.0": {
+        "runtime": {
+          "InterfaceSegregation.dll": {}
+        }
+      },
+      "LiskovSubstitution/1.0.0": {
+        "runtime": {
+          "LiskovSubstitution.dll": {}
+        }
+      },
+      "OpenClosed/1.0.0": {
+        "runtime": {
+          "OpenClosed.dll": {}
+        }
+      },
+      "SingleResponsibility/1.0.0": {
+        "runtime": {
+          "SingleResponsibility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLIDPrinciples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DependencyInversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfaceSegregation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiskovSubstitution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenClosed/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingleResponsibility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,27 @@
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\InterfaceSegregation\bin\Debug\netstandard2.0\InterfaceSegregation.deps.json
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\InterfaceSegregation\bin\Debug\netstandard2.0\InterfaceSegregation.dll
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\InterfaceSegregation\bin\Debug\netstandard2.0\InterfaceSegregation.pdb
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.AssemblyInfo.cs
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.dll
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.pdb
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.csprojAssemblyReference.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\InterfaceSegregation\bin\Debug\netstandard2.0\InterfaceSegregation.deps.json
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\InterfaceSegregation\bin\Debug\netstandard2.0\InterfaceSegregation.dll
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\InterfaceSegregation\bin\Debug\netstandard2.0\InterfaceSegregation.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.AssemblyInfo.cs
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.dll
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\InterfaceSegregation\bin\Debug\netstandard2.0\InterfaceSegregation.deps.json
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\InterfaceSegregation\bin\Debug\netstandard2.0\InterfaceSegregation.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\InterfaceSegregation\bin\Debug\netstandard2.0\InterfaceSegregation.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.AssemblyInfo.cs
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\InterfaceSegregation\obj\Debug\netstandard2.0\InterfaceSegregation.pdb

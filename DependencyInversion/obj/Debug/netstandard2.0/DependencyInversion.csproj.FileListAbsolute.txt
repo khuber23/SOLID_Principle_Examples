@@ -1,0 +1,28 @@
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\DependencyInversion\bin\Debug\netstandard2.0\DependencyInversion.deps.json
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\DependencyInversion\bin\Debug\netstandard2.0\DependencyInversion.dll
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\DependencyInversion\bin\Debug\netstandard2.0\DependencyInversion.pdb
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.AssemblyInfo.cs
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.dll
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.pdb
+C:\Users\cdpay\OneDrive\Documents\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.csprojAssemblyReference.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\DependencyInversion\bin\Debug\netstandard2.0\DependencyInversion.deps.json
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\DependencyInversion\bin\Debug\netstandard2.0\DependencyInversion.dll
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\DependencyInversion\bin\Debug\netstandard2.0\DependencyInversion.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.AssemblyInfo.cs
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.dll
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\7.1 SOLID\SOLID Exercise\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.csprojAssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\DependencyInversion\bin\Debug\netstandard2.0\DependencyInversion.deps.json
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\DependencyInversion\bin\Debug\netstandard2.0\DependencyInversion.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\DependencyInversion\bin\Debug\netstandard2.0\DependencyInversion.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.AssemblyInfo.cs
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.dll
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\A Class\7.1 SOLID Huber\DependencyInversion\obj\Debug\netstandard2.0\DependencyInversion.pdb
